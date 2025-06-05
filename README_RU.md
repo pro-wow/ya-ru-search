@@ -66,7 +66,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone [https://github.com/pro-wow/ya-ru-search.git](https://github.com/pro-wow/ya-ru-search.git)
+    git clone https://github.com/pro-wow/ya-ru-search.git
     cd ya-ru-search
     ```
 2.  Чтобы упаковать расширение в файл `.xpi`:

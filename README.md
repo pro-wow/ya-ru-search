@@ -66,7 +66,7 @@ The extension will automatically use the language that matches your browser's UI
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/pro-wow/ya-ru-search.git](https://github.com/pro-wow/ya-ru-search.git)
+    git clone https://github.com/pro-wow/ya-ru-search.git
     cd ya-ru-search
     ```
 2.  To package the extension into an `.xpi` file:
