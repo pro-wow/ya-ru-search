@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Yandex Search Engine",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Adds Yandex search engine to Firefox and sets it as default.",
+    "description": "A short description of what the extension does."
+  },
+  "searchProviderName": {
+    "message": "Yandex Search",
+    "description": "The name of the search engine provider as it will appear in Firefox settings."
+  }
+}
