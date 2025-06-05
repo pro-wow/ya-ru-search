@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "short_name": "yandex_search_engine",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0.0",
+  "default_locale": "ru",
+  "icons": {
+    "16": "icons/yandex.svg",
+    "64": "icons/yandex.svg",
+    "256": "icons/yandex.svg"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "__MSG_searchProviderName__",
+      "keyword": "@ya",
+      "favicon_url": "icons/yandex.svg",
+      "search_url": "https://ya.ru/search",
+      "search_url_get_params": "text={searchTerms}",
+      "suggest_url": "https://suggest.yandex.ru/suggest-ff.cgi",
+      "suggest_url_get_params": "part={searchTerms}",
+      "is_default": true,
+      "encoding": "UTF-8"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "YandexSearchEngineExtension@strogino",
+      "strict_min_version": "139.0"
+    }
+  },
+  "author": "Strogino",
+  "homepage_url": "https://strogino.pro/?from=ff"
+}
