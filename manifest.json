@@ -35,7 +35,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "YandexSearchEngineExtension@strogino",
-      "strict_min_version": "68.0"
+      "strict_min_version": "79.0"
     }
   },
   "author": "Strogino",
