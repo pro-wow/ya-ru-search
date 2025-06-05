@@ -1,3 +1,4 @@
+// /* Android */
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('searchForm');
     const input = document.getElementById('searchQuery');

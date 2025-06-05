@@ -24,7 +24,7 @@
       "encoding": "UTF-8"
     }
   },
-  "browser_action": {
+  "action": {
     "default_icon": {
       "16": "icons/yandex.svg",
       "48": "icons/yandex.svg"
@@ -39,16 +39,16 @@
     }
   },
   "web_accessible_resources": [
-  {
-    "resources": [
-      "popup/mobile.html",
-      "popup/mobile.css",
-      "popup/mobile.js",
-      "icons/yandex.svg"
-    ],
-    "matches": ["<all_urls>"]
-  }
-],
+    {
+      "resources": [
+        "popup/mobile.html",
+        "popup/mobile.css",
+        "popup/mobile.js",
+        "icons/yandex.svg"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
   "author": "Strogino",
   "homepage_url": "https://github.com/pro-wow/ya-ru-search"
 }
