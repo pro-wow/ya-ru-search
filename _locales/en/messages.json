@@ -1,0 +1,30 @@
+{
+  "extensionName": {
+    "message": "Yandex Search",
+    "description": "The full name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Adds Yandex search engine to Firefox, sets it as default, and provides quick search via toolbar icon.",
+    "description": "Description of the extension."
+  },
+  "searchProviderName": {
+    "message": "Yandex",
+    "description": "Name of the Yandex search engine in browser settings."
+  },
+  "browserActionTitle": {
+    "message": "Search with Yandex",
+    "description": "Tooltip for the browser action icon on the toolbar."
+  },
+  "popupTitle": {
+    "message": "Yandex Search",
+    "description": "Title of the search popup window."
+  },
+  "searchPlaceholder": {
+    "message": "Enter Yandex query...",
+    "description": "Placeholder text for the input field in the popup."
+  },
+  "searchButtonText": {
+    "message": "Search",
+    "description": "Text on the search button in the popup."
+  }
+}
