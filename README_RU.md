@@ -1,6 +1,6 @@
 # Яндекс Поиск для Firefox
 
-[![Дополнение Firefox](https://img.shields.io/badge/Дополнение_Firefox-Загрузить_с_AMO-orange?style=for-the-badge&logo=firefox-browser)](https://addons.mozilla.org/ru/firefox/addon/YandexSearchEngineExtension-strogino) [![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
+[![Read in English](https://img.shields.io/badge/Read%20in-English-brightgreen.svg?style=for-the-badge&logo=data:image/svg+xml;base64,UK_FLAG_BASE64)](README.md) [![Дополнение Firefox](https://img.shields.io/badge/Дополнение_Firefox-Загрузить_с_AMO-orange?style=for-the-badge&logo=firefox-browser)](https://addons.mozilla.org/ru/firefox/addon/YandexSearchEngineExtension-strogino) [![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 
 Это расширение для браузера Firefox легко интегрирует Яндекс Поиск в ваш браузер. Оно позволяет установить Яндекс в качестве поисковой системы по умолчанию, использовать удобное ключевое слово для быстрого поиска, а также осуществлять поиск через Яндекс прямо из всплывающего окна на панели инструментов.
 
