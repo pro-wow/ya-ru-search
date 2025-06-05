@@ -1,6 +1,7 @@
 # Yandex Search for Firefox
 
-[![Firefox Add-on](https://img.shields.io/badge/Firefox_Add--on-Get_it_on_AMO-orange?style=for-the-badge&logo=firefox-browser)](https://addons.mozilla.org/addon/YandexSearchEngineExtension-strogino) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
+[![Читать на Русском](https://img.shields.io/badge/Читать%20на-Русском-blue.svg?style=for-the-badge)](README_RU.md) [![Firefox Add-on](https://img.shields.io/badge/Firefox_Add--on-Get_it_on_AMO-orange?style=for-the-badge&logo=firefox-browser)](https://addons.mozilla.org/addon/YandexSearchEngineExtension-strogino) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
+
 This Firefox browser extension seamlessly integrates Yandex Search into your Browse experience. It allows you to set Yandex as your default search engine, use a convenient keyword for quick searches, and access Yandex search directly from a toolbar popup.
 
 This extension is designed for both Desktop and Android versions of Firefox, offering a tailored experience:
